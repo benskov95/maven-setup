@@ -14,5 +14,12 @@
 
 <h1>Nu har jeg fået lavet min første jsp side.</h1>
 
+
+<form action="Servlet", method="post">
+    <label for="fname">First name:</label><br>
+    <input type="text" id="fname" name="name"><br>
+    <input type="submit" value="Submit">
+</form>
+
 </body>
 </html>
